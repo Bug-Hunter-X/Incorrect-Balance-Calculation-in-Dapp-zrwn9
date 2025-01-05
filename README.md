@@ -1,0 +1,1 @@
+This repository contains a Solidity smart contract with a bug in its balance calculation function. The bug causes incorrect balances to be reported to users.  The bug.sol file demonstrates the buggy code. The bugSolution.sol file provides a corrected version of the function.
